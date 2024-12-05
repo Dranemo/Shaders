@@ -89,7 +89,7 @@ Material:
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _ColorLerpSize: 0.05
+    - _ColorLerpSize: 0.083
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
@@ -115,10 +115,10 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _moutainFlatness: 2.21
-    - _powerNoise: 0.3
-    - _scaleNoise: 3.88
-    - _startGrass: 0.15
+    - _moutainFlatness: 10
+    - _powerNoise: 0.88
+    - _scaleNoise: 1.44
+    - _startGrass: 0.05
     - _startSnow: 0.8
     - _stopGrass: 0.4
     m_Colors:
