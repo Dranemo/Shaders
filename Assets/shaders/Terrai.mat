@@ -89,7 +89,7 @@ Material:
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _ColorLerpSize: 0.083
+    - _ColorLerpSize: 0.093
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
@@ -101,6 +101,8 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _LerpSmoohtness: 0.72
+    - _LightIntensity: 0.3
+    - _LightReflection: 0.1
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -112,23 +114,28 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
+    - _StopUnderWater: 0
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _moutainFlatness: 10
-    - _powerNoise: 0.88
-    - _scaleNoise: 1.44
-    - _startGrass: 0.05
-    - _startSnow: 0.8
-    - _stopGrass: 0.4
+    - _moutainFlatness: 4
+    - _powerNoise: 1
+    - _roughness: 30
+    - _scaleNoise: 1.5
+    - _startGrass: 0.177
+    - _startSnow: 0.853
+    - _stopGrass: 0.506
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _ColorGrass: {r: 0.072956085, g: 0.6415094, b: 0, a: 0}
-    - _ColorRock: {r: 0.26415086, g: 0.11274437, b: 0.08098964, a: 0}
-    - _ColorSand: {r: 1, g: 0.95523626, b: 0.46698105, a: 0}
-    - _ColorSnow: {r: 1, g: 1, b: 1, a: 0}
+    - _ColorRock: {r: 0.09154379, g: 0.3433962, b: 0.009718701, a: 0}
+    - _ColorSand: {r: 1, g: 0.92430925, b: 0, a: 0}
+    - _ColorSnow: {r: 0, g: 0.2603773, b: 0.0077432105, a: 0}
+    - _ColorUnderWater: {r: 0.15667105, g: 0, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LightColor: {r: 1, g: 1, b: 1, a: 0}
+    - _NightColor: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &5227441317782780133
