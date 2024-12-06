@@ -125,6 +125,7 @@ Material:
     - _startGrass: 0.177
     - _startSnow: 0.853
     - _stopGrass: 0.506
+    - _sunSpeed: 0.2
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}

@@ -102,6 +102,7 @@ Material:
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
+    - _CloudsThicness: 0.16
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
@@ -126,8 +127,11 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
+    - _cloudsRoughness: 0.34
+    - _clouds_power: 0.6
     - _noiseScale: 10
-    - _simpleNoiseScale: 2
+    - _simpleNoiseScale: 2.16
+    - _speed: 0.01
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}

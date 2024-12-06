@@ -127,6 +127,7 @@ Material:
     - _simpleNoise: 0
     - _simpleNoiseFrequance: 0.01
     - _specularIntensity: 0
+    - _sunSpeed: 0.2
     - _voronoiDensity: 200
     - _voronoiPower: 10
     - _waterMovement: 0.002
